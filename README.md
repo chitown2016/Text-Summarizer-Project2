@@ -10,3 +10,5 @@
 6. Update the pipeline
 7. Update the main.py
 8. update the app.py
+
+- Save the URI: 770512318629.dkr.ecr.us-east-2.amazonaws.com/text-s
